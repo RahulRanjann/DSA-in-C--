@@ -18,11 +18,11 @@ int main()
     
    }
    
-    cout << binary <<"\n";
+    cout << binary <<endl;
     
     size = binary.size();
 
-    cout << " "<< size;
+    cout << size<< " bits"  ;
 
     
 
